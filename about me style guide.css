@@ -1,0 +1,16 @@
+/*selector*/	
+h1{
+	font-color= pink;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid pink;
+    padding: 10px;
+
+img {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
